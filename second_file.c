@@ -1,2 +1,2 @@
-A second file for a pull request.
+A second file while a pull request.
 
